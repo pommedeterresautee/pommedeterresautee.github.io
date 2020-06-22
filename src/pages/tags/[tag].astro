@@ -1,0 +1,47 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import Main from "@layouts/Main.astro";
+import Card from "@components/Card";
+import getUniqueTags from "@utils/getUniqueTags";
+import getPostsByTag from "@utils/getPostsByTag";
+import slugify, { slugifyStr } from "@utils/slugify";
+import type { CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog", ({ data }) => !data.draft);
+  const tags = getUniqueTags(posts);
+  return tags.map((t) => ({ params: { tag: slugifyStr(t) }, props: { tag: t } }));
+}
+
+const tagSlug = Astro.params.tag as string;
+const { tag } = Astro.props as { tag: string };
+const posts = await getCollection("blog", ({ data }) => !data.draft);
+const filtered: CollectionEntry<'blog'>[] = getPostsByTag(posts, tagSlug);
+---
+
+<Layout title={`Tag: ${tag}`}>
+  <Header activeNav="tags" />
+  <Main pageTitle={`Tag: ${tag}`} pageDesc={`Posts tagged with ${tag}.`}>
+    {
+      filtered.length === 0 ? (
+        <p>No posts found for this tag.</p>
+      ) : (
+        <ul>
+          {filtered.map(({ data }) => (
+            <Card href={`/posts/${slugify(data)}`} frontmatter={data} />
+          ))}
+        </ul>
+      )
+    }
+  </Main>
+  <Footer />
+</Layout>
+
+<style>
+  ul {
+    @apply my-6;
+  }
+</style>
