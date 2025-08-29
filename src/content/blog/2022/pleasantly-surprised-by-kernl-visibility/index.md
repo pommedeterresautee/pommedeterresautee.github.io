@@ -1,5 +1,5 @@
 ---
-title: Pleasantly surprised by Kernl’s visibility
+title: Meeting Michael Lightstone, VP of AI Computing at NVIDIA
 description: A short, amused note on Kernl’s unexpected visibility and a chat with NVIDIA’s Michael Lightstone—yes, from a legal publisher.
 pubDatetime: 2022-11-16T00:00:00.000Z
 draft: false

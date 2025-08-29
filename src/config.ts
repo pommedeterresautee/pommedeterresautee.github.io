@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://pommedeterresautee.github.io",
   author: "Michaël Benesty",
-  desc: "Notes on AI, optimization, and applied ML to the legal industry.",
+  desc: "Legal x Engineering x ML",
   title: "pommedeterresautee",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,

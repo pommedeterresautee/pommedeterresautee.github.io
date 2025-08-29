@@ -1,0 +1,45 @@
+---
+import AboutLayout from "@layouts/AboutLayout.astro";
+import aboutImg from "@assets/blog-placeholder-about.jpg";
+
+const frontmatter = {
+  title: "About Me",
+  description:
+    "Source‑grounded AI for law and tax; notes on code, doctrine, and practice.",
+};
+---
+
+<AboutLayout frontmatter={frontmatter}>
+  <p>
+    I’m Michael Benesty. I build source‑grounded AI for law and tax, and I
+    write here when I learn something worth sharing—usually at the intersection
+    of code, doctrine, and real‑world practice.
+  </p>
+
+  <p>
+    <strong>Engineer × Lawyer × Accountant.</strong> I speak statute, ledger, and GPU. That
+    mix lets me turn legal reasoning into testable specs, editorial knowledge
+    into retrieval, and vague requirements into tools that professionals
+    actually trust. My north star: systems that don’t bluff, show their
+    sources, and hold up to audit.
+  </p>
+
+  <p>
+    By day, I lead R&amp;D at Lefebvre Sarrut, where we’re shaping GenIA‑L, a
+    cited, editorially‑anchored assistant for legal and tax work. In open
+    source, I helped build XGBoost’s R interface (a strange but happy path for
+    a former lawyer/accountant) and co‑created tooling like
+    <a href="https://github.com/ELS-RD/kernl" target="_blank" rel="noopener noreferrer">Kernl</a>
+    and
+    <a href="https://github.com/ELS-RD/transformer-deploy" target="_blank" rel="noopener noreferrer">transformer‑deploy</a>
+    —because useful systems should be inspectable, reproducible, and easy to
+    ship. Earlier, with SupraLegem, I learned a lot about what responsible
+    legal open data looks like (and what it doesn’t).
+  </p>
+
+  <p>
+    What you’ll find here: practical notes, design choices, and small
+    experiments—written with the skepticism of an auditor, the precision of a
+    lawyer, and the pragmatism of an engineer.
+  </p>
+</AboutLayout>

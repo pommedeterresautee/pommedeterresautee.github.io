@@ -5,6 +5,7 @@ description: >-
   upgrade with the release of Llama V2. Its new licensing terms have sparked significant excitement…
 pubDatetime: 2023-07-20T00:00:00.000Z
 draft: false
+featured: true
 author: "Michaël Benesty"
 tags: ["Kernl", "Llama", "LLM"]
 postSlug: 2023/accelerating-inference-in-llama-v2
