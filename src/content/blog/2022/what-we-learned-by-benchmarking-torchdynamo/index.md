@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: >-
   What we learned by benchmarking TorchDynamo (PyTorch team), ONNX Runtime and TensorRT on transformers model
   (inference)
@@ -8,7 +9,7 @@ description: >-
 pubDatetime: 2022-08-03T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["ONNX Runtime", "TensorRT", "TorchDynamo", "Benchmarking", "Transformers"]
+
 postSlug: 2022/what-we-learned-by-benchmarking-torchdynamo
 ---
 

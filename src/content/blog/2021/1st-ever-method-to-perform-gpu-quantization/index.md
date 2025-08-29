@@ -1,4 +1,5 @@
 ---
+tags: ["LLMs", "Model Optimization"]
 title: '1st ever method to perform *GPU* quantization on most 🤗 HF transformer models: > 2X faster inference!'
 description: >-
   Quantization is a technique to significantly accelerate inference by replacing high precision tensors by lower
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2021-12-10T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "Quantization", "Optimization", "Transformers"]
+
 postSlug: 2021/1st-ever-method-to-perform-gpu-quantization
 ---
 

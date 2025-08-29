@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs"]
 title: 'Deep Dive into Kernel Fusion: Accelerating Inference in Llama V2'
 description: >-
   _The code is available at _. Llama, the most widely discussed machine learning model in 2023, has recently received an
@@ -7,7 +8,7 @@ pubDatetime: 2023-07-20T00:00:00.000Z
 draft: false
 featured: true
 author: "Michaël Benesty"
-tags: ["Kernl", "Llama", "LLM"]
+
 postSlug: 2023/accelerating-inference-in-llama-v2
 ---
 

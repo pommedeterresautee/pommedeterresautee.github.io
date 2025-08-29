@@ -1,4 +1,5 @@
 ---
+tags: ["LLMs", "Model Optimization"]
 title: What we learned by accelerating by 5X Hugging Face generative language models
 description: >-
   2 trends ongoing in the NLP ecosystem: bigger language model and better text generation. Both are NLP game changers
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2022-02-09T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "Optimization", "Transformers"]
+
 postSlug: 2022/what-we-learned-by-accelerating-by-5x-hugging-face
 ---
 

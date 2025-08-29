@@ -1,10 +1,11 @@
 ---
+tags: ["LLMs", "Model Optimization", "Privacy"]
 title: Why we switched from Spacy to Flair to anonymize French case law
 description: … and why you should always review your options
 pubDatetime: 2019-09-26T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Anonymisation", "NLP", "Optimization"]
+
 postSlug: 2019/why-we-switched-from-spacy-to-flair
 ---
 

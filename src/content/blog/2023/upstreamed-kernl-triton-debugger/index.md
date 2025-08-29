@@ -1,11 +1,12 @@
 ---
+tags: ["GPU Systems"]
 title: "Upstreamed: Kernl’s Triton “debugger” lands in OpenAI Triton"
 description: In May 2023 we upstreamed our Python-level interpreter/debugger for Triton kernels to the OpenAI Triton project; here’s what it is, how to use it, and where it helps.
 pubDatetime: 2023-10-12T00:00:00.000Z
 draft: false
 featured: true
 author: "Michaël Benesty"
-tags: ["Triton", "Kernl", "CUDA", "PyTorch", "Debugging"]
+
 postSlug: 2023/upstreamed-kernl-triton-debugger
 ---
 

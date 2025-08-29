@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "La qualité de l'anonymisation des décisions de justice par machine learning baisse de façon drastique en fonction du nombre de mentions à anonymiser"
 description: "La qualité de l'anonymisation des décisions de justice par machine learning baisse de façon drastique en fonction du nombre de mentions à anonymiser Michael BENESTY Head Of Researc"
 pubDatetime: 2016-09-07T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Anonymisation", "Machine Learning", "Données juridiques", "Statistiques", "NLP"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/les-obstacles-%C3%A0-une-parfaite-anonymisation-des-de-justice-benesty

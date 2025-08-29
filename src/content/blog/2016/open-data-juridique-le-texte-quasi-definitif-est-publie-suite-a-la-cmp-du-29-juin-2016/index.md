@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Open data juridique : le texte quasi-définitif est publié suite à la CMP du 29 juin 2016"
 description: "Open data juridique : le texte quasi définitif est publié suite à la CMP du 29 juin 2016 Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebv"
 pubDatetime: 2016-06-29T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Open Data", "Justice", "Recherche juridique"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/open-data-juridique-le-texte-quasi-d%C3%A9finitif-est-publi%C3%A9-benesty

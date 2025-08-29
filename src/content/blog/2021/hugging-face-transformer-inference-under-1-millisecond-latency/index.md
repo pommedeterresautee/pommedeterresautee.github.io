@@ -1,10 +1,11 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: Hugging Face Transformer Inference Under 1 Millisecond Latency
 description: Go to production with Microsoft and Nvidia open source tooling
 pubDatetime: 2021-11-05T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "ONNX Runtime", "Optimization", "Transformers"]
+
 postSlug: 2021/hugging-face-transformer-inference-under-1-millisecond-latency
 ---
 

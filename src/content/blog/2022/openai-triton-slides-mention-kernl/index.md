@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems"]
 title: OpenAI cites Kernl in Triton slides
 description: >-
   A short note to say how pleasant it is to see our work on Kernl cited in an OpenAI Research Acceleration Team slide
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2022-12-12T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Kernl", "OpenAI Triton", "Community"]
+
 postSlug: 2022/openai-triton-slides-mention-kernl
 ---
 

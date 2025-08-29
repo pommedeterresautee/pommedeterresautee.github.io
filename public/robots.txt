@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap index
+Sitemap: https://pommedeterresautee.github.io/sitemap-index.xml
+

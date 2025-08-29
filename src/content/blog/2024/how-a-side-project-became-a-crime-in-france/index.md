@@ -1,11 +1,12 @@
 ---
+tags: ["Open Data"]
 title: How a Side Project Became a Crime (in France)
 description: How open-data work became criminally risky in France under Article 33; context, what is banned, and lessons learned.
 pubDatetime: 2024-08-27T00:00:00.000Z
 draft: false
 featured: true
 author: "Michaël Benesty"
-tags: ["Open data", "Justice prédictive"]
+
 postSlug: 2024/how-a-side-project-became-a-crime-in-france
 ---
 
@@ -13,11 +14,11 @@ postSlug: 2024/how-a-side-project-became-a-crime-in-france
 
 In 2016, I was a tax lawyer who liked to ship small ML tools on evenings and weekends. One of those tools scraped and enriched case law so I could quickly find the (rare) decisions where the French tax administration had lost—a goldmine in my practice. The code worked well enough that I tried it on something outside tax: rumors about uneven treatment of asylum and immigration cases. What started as a debugging exercise turned into a dataset showing very large disparities across administrative judges, stable year after year.
 
-Those first explorations became **SupraLegem**—a free, non‑commercial website built with a friend (an ML engineer in New York) so anyone could verify the numbers and audit the methods. No ads, no black box, only open data and a design that let you click through to the underlying decisions and check every aggregation by hand. We weren’t trying to “rate judges.” We were testing whether the law was applied consistently. We pressed **publish**. A few hours later, the storm arrived.
+Those first explorations became **SupraLegem**—a free, non‑commercial website built with a friend (an ML engineer at NYC Google office) so anyone could verify the numbers and audit the methods. No ads, no black box, only open data and a design that let you click through to the underlying decisions and check every aggregation by hand. We weren’t trying to “rate judges.” We were testing whether the law was applied consistently. We pressed **publish**. A few hours later, the storm arrived.
 
 <!-- more -->
 
-The content was provocative because we included names, as newspapers routinely do when reporting on decisions read in open court. Before posting, we had even sent our slides to the Conseil d’État for feedback. Nobody answered—because, as I later learned, the court’s browser couldn’t open Slideshare. So we shipped, with names. Then came the emails, calls, and op‑eds. Some judges argued that exposing disparities would threaten their independence. Others conceded there was a signal, but were uncomfortable with naming individuals. My employers at the time (Deloitte) didn’t want to be dragged into a media cycle about “predictive justice.” We closed the site. The story could have ended there. It didn’t.
+The content was provocative because we included names, as newspapers routinely do when reporting on decisions read in open court. Before posting, we had even sent our slides to the Conseil d’État for feedback. Nobody answered—because, as I later learned, the court’s browser couldn’t open Slideshare. So we shipped, with names. Then came the emails, calls, and op‑eds. Some judges argued that exposing disparities would threaten their independence. Others conceded there was a signal, but were uncomfortable with naming individuals. My employers at the time (Deloitte) didn’t want to be dragged into a media cycle about “predictive justice”, my friend got a (not fun) meeting with some Google committee to assess the source code IP ownership of the project and reputational risk for the company. We closed the site. The story could have ended there. It didn’t.
 
 ## From open data to a prohibition
 

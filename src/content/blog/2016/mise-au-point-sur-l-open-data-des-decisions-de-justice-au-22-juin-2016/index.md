@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Mise au point sur l’open data des décisions de justice (au 22 juin 2016)"
 description: "Mise au point sur l’open data des décisions de justice (au 22 juin 2016) Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebvre, Éditions Lég"
 pubDatetime: 2016-06-22T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Open Data", "Décisions de justice"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/mise-au-point-sur-lopen-data-des-d%C3%A9cisions-de-justice-michael-benesty

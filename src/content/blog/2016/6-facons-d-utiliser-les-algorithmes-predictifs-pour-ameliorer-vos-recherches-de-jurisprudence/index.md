@@ -1,10 +1,11 @@
 ---
+tags: ["Judicial Analytics", "Law", "LLMs"]
 title: "6 façons d'utiliser les algorithmes prédictifs pour améliorer vos recherches de jurisprudence"
 description: "6 façons d'utiliser les algorithmes prédictifs pour améliorer vos recherches de jurisprudence Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis L"
 pubDatetime: 2016-05-04T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Justice prédictive", "Recherche juridique", "Jurisprudence", "Machine Learning"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/6-fa%C3%A7ons-dutiliser-les-algorithmes-pr%C3%A9dictifs-pour-vos-benesty

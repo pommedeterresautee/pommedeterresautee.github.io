@@ -1,10 +1,11 @@
 ---
+tags: ["Ethics", "Judicial Analytics", "Law"]
 title: "Est-il pertinent de calculer des profils de juges dans un pays de tradition civiliste ?"
 description: "Est il pertinent de calculer des profils de juges dans un pays de tradition civiliste ? Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebvr"
 pubDatetime: 2016-06-09T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Justice prédictive", "Droit civil", "Éthique", "Statistiques"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/est-il-pertinent-de-calculer-des-profils-juges-dans-un-benesty

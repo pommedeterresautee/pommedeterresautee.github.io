@@ -1,10 +1,11 @@
 ---
+tags: ["Ethics", "Judicial Analytics", "Law", "LLMs"]
 title: "L’impartialité de certains juges mise à mal par l’intelligence artificielle"
 description: "L’impartialité de certains juges mise à mal par l’intelligence artificielle Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebvre, Éditions "
 pubDatetime: 2016-03-24T02:03:00.000Z
 draft: false
 author: mbenesty
-tags: ["Justice prédictive", "Éthique", "Machine Learning", "Droit administratif"]
+
 ---
 
 > Article d'origine: https://www.village-justice.com/articles/impartialite-certains-juges-mise,21760.html

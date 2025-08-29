@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data", "Open Source"]
 title: "Published my first paper about Trustworthy Predictive Justice"
 description: "Peer‑reviewed publication at JOAL (Cornell): predictive justice is credible only if both the data and the code are open. A French court study shows an interpretable 87.2% model; code and dataset released for scrutiny."
 pubDatetime: 2017-06-17T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Open Data", "Open Source", "Justice", "Machine Learning", "Legaltech"]
+
 postSlug: 2017/open-data-open-source-trustworthy-predictive-justice
 ---
 

@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization", "Speech"]
 title: Get 2x Faster Transcriptions with OpenAI Whisper Large on Kernl
 description: >-
   We are happy to announce the support of OpenAI Whisper model (ASR task) on Kernl. We focused on high quality
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2023-02-09T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["CUDA", "Kernl", "OpenAI Whisper", "Optimization", "Transformers"]
+
 postSlug: 2023/get-2x-faster-transcriptions-with-openai-whisper
 ---
 

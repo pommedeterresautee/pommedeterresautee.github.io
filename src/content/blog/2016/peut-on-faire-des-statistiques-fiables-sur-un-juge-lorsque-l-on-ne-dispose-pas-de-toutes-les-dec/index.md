@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Peut on faire des statistiques fiables sur un juge lorsque l'on ne dispose pas de toutes les décisions émises ?"
 description: "Peut on faire des statistiques fiables sur un juge lorsque l'on ne dispose pas de toutes les décisions émises ? Michael BENESTY Head Of Research And Development at Lefebvre Sarrut "
 pubDatetime: 2016-05-31T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Statistiques", "Éthique", "Open Data", "Justice"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/peut-faire-des-statistiques-fiables-sur-un-juge-lorsque-benesty

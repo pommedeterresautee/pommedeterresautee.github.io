@@ -56,6 +56,11 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
+            <a href="/search" aria-current={activeNav === "search" ? "page" : undefined} class={activeNav === "search" ? "active" : ""}>
+              Search
+            </a>
+          </li>
+          <li>
             <a href="/about" aria-current={activeNav === "about" ? "page" : undefined} class={activeNav === "about" ? "active" : ""}>
               About Me
             </a>

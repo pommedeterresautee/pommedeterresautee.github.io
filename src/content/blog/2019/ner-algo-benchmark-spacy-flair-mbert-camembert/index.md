@@ -1,10 +1,11 @@
 ---
+tags: ["Law", "LLMs", "Model Optimization"]
 title: 'NER algo benchmark: spaCy, Flair, m-BERT and camemBERT on anonymizing French commercial legal cases'
 description: Does (model) size matters?
 pubDatetime: 2019-12-10T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Justice", "Machine Learning", "Benchmarking"]
+
 postSlug: 2019/ner-algo-benchmark-spacy-flair-mbert-camembert
 ---
 

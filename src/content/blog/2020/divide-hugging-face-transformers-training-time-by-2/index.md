@@ -1,10 +1,11 @@
 ---
+tags: ["GPU Systems", "LLMs"]
 title: Divide Hugging Face Transformers training time by 2 or more with dynamic padding and uniform length batching
 description: Reducing training time helps to iterate more in a fixed budget time and thus achieve better results.
 pubDatetime: 2020-05-20T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Machine Learning", "Hugging Face", "NLP", "PyTorch"]
+
 postSlug: 2020/divide-hugging-face-transformers-training-time-by-2
 ---
 

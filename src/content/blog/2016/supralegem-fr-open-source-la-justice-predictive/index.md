@@ -1,10 +1,11 @@
 ---
+tags: ["Judicial Analytics", "Law"]
 title: "SupraLegem.fr open source la justice prédictive !"
 description: "Fantasia, allégorie de la justice prédictive ? SupraLegem.fr open source la justice prédictive ! Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Franci"
 pubDatetime: 2016-11-02T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Justice prédictive", "Recherche juridique"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/supralegemfr-open-source-la-justice-pr%C3%A9dictive-michael-benesty

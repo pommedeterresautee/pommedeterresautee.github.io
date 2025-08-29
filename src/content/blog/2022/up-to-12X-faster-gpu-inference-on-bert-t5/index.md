@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: Up to 12X faster GPU inference on Bert, T5 and other transformers with OpenAI Triton kernels
 description: >-
   We are releasing **** under Apache 2 license, a library to make PyTorch models inference significantly faster. With 1
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2022-10-26T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["BERT", "Kernl", "OpenAI Triton", "T5", "Optimization", "Transformers"]
+
 postSlug: 2022/up-to-12X-faster-gpu-inference-on-bert-t5
 ---
 

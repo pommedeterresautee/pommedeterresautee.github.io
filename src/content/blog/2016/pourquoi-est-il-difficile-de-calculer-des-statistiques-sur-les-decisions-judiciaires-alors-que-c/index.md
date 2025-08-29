@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Pourquoi est-il difficile de calculer des statistiques sur les décisions judiciaires alors que c’est possible avec celles de l’ordre administratif ?"
 description: "Pourquoi est il difficile de calculer des statistiques sur les décisions judiciaires alors que c’est possible avec celles de l’ordre administratif ? Michael BENESTY Head Of Researc"
 pubDatetime: 2016-06-06T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Statistiques", "Justice", "Droit administratif", "Open Data", "Données juridiques"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/pourquoi-est-il-difficile-de-calculer-des-sur-les-alors-benesty

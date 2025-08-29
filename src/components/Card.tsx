@@ -1,5 +1,6 @@
 import Datetime from "./Datetime";
 import type { BlogFrontmatter } from "@content/_schemas";
+import stripMarkdown from "@utils/stripMarkdown";
 
 export interface Props {
   href?: string;
@@ -9,6 +10,7 @@ export interface Props {
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
   const { title, pubDatetime, description } = frontmatter;
+  const plainDescription = stripMarkdown(description);
   return (
     <li className="my-6">
       <a
@@ -26,7 +28,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         )}
       </a>
       <Datetime datetime={pubDatetime} />
-      <p>{description}</p>
+      <p>{plainDescription}</p>
     </li>
   );
 }

@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: 4.5 times faster Hugging Face transformer inference by modifying some Python AST
 description: >-
   Recently, 🤗 Hugging Face people have released a commercial product called Infinity to perform inference with very
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2021-12-29T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "NVIDIA Triton", "ONNX Runtime", "TensorRT", "Optimization", "Transformers"]
+
 postSlug: 2021/4-5-times-faster-hugging-face-transformer-inference
 ---
 

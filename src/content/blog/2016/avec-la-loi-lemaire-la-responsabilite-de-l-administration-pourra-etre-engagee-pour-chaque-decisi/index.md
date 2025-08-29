@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Avec la loi Lemaire la responsabilité de l’administration pourra être engagée pour chaque décision de justice mal anonymisée"
 description: "Avec la loi Lemaire la responsabilité de l’administration pourra être engagée pour chaque décision de justice mal anonymisée Michael BENESTY Head Of Research And Development at Lef"
 pubDatetime: 2016-09-15T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Open Data", "Anonymisation", "Protection des données", "Éthique"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/avec-la-loi-lemaire-responsabilit%C3%A9-de-ladministration-michael-benesty

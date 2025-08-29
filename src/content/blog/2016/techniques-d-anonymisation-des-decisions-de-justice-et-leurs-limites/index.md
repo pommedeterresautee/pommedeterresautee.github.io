@@ -1,10 +1,11 @@
 ---
+tags: ["Law", "Privacy"]
 title: "Techniques d'anonymisation des décisions de justice et leurs limites"
 description: "Techniques d'anonymisation des décisions de justice et leurs limites Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebvre, Éditions Législa"
 pubDatetime: 2016-09-05T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Anonymisation", "Protection des données", "Justice"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/techniques-danonymisation-des-d%C3%A9cisions-de-justice-et-michael-benesty

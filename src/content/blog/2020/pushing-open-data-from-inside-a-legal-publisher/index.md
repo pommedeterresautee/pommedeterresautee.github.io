@@ -1,11 +1,12 @@
 ---
+tags: ["Open Data"]
 title: "Pushing open data from inside a legal publisher (2019): two pro bono partnerships"
 description: "In 2019 we ran two pro bono partnerships to open up court decisions - with Etalab/Cour de cassation and Luxembourg’s Prosecutor General - focusing on engineering speedups for anonymization and an end-to-end PoC."
 pubDatetime: 2020-01-15T00:00:00.000Z
 draft: false
 featured: true
 author: "Michaël Benesty"
-tags: ["Open data", "Anonymisation", "Justice"]
+
 postSlug: 2020/pushing-open-data-from-inside-a-legal-publisher
 ---
 

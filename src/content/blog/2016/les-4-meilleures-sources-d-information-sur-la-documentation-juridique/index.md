@@ -1,10 +1,11 @@
 ---
+tags: ["Open Data"]
 title: "Les 4 meilleures sources d’information sur la documentation juridique"
 description: "Les 4 meilleures sources d’information sur la documentation juridique Michael BENESTY Head Of Research And Development at Lefebvre Sarrut (Dalloz, Francis Lefebvre, Éditions Législ"
 pubDatetime: 2016-09-20T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Recherche juridique", "Legaltech", "Open Data"]
+
 ---
 
 > Article d'origine: https://www.linkedin.com/pulse/les-4-meilleures-sources-dinformation-sur-origines-de-michael-benesty

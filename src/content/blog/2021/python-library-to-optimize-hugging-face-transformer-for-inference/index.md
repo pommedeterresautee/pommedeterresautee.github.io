@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: 'Python library to optimize Hugging Face transformer for inference: < 0.5 ms latency / 2850 infer/sec'
 description: >-
   We just launched a new open source Python library to help in **optimizing** Transformer model inference and prepare
@@ -6,7 +7,7 @@ description: >-
 pubDatetime: 2021-11-24T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "ONNX Runtime", "TensorRT", "Optimization", "Transformers"]
+
 postSlug: 2021/python-library-to-optimize-hugging-face-transformer-for-inference
 ---
 

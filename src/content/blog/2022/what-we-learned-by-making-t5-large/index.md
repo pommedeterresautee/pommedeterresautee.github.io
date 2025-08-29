@@ -1,10 +1,11 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: What we learned by making T5-large 2X faster than Pytorch (and any autoregressive transformer)
 description: 'We made autoregressive based models like **2X faster** than 🤗 Hugging Face Pytorch with **3 simple tricks**:'
 pubDatetime: 2022-05-24T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["CUDA", "Hugging Face", "NVIDIA Triton", "ONNX Runtime", "T5", "TensorRT", "Optimization", "Transformers"]
+
 postSlug: 2022/what-we-learned-by-making-t5-large
 ---
 

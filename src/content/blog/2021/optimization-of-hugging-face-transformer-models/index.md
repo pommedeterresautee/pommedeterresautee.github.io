@@ -1,4 +1,5 @@
 ---
+tags: ["GPU Systems", "LLMs", "Model Optimization"]
 title: >-
   Optimization of Hugging Face Transformer models to get Inference < 1 Millisecond Latency + deployment on production
   ready inference server
@@ -8,7 +9,7 @@ description: >-
 pubDatetime: 2021-11-05T00:00:00.000Z
 draft: false
 author: "Michaël Benesty"
-tags: ["Hugging Face", "NVIDIA Triton", "Optimization", "Transformers"]
+
 postSlug: 2021/optimization-of-hugging-face-transformer-models
 ---
 
